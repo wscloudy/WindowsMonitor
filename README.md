@@ -1,4 +1,3 @@
-# WindowsMonitor
 Windows Hardware Monitor
-Base LibreHardwareMonitorLib
-code: C# winform
+Based on LibreHardwareMonitorLib
+Code: C# WinForm
